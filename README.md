@@ -1,4 +1,4 @@
-# Olá, sou o Igor, desenvolvedor Front-End. Obrigado por visitar meu perfil!
+# Olá, sou o Igor, estudante de desenvolvimento web. Obrigado por visitar meu perfil!
 
 <div align="center">
   <a href="https://github.com/igorlops">
