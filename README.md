@@ -1,8 +1,8 @@
 # Olá, sou o Igor. Obrigado por visitar meu perfil!
 
-####### Sou estudante de desenvolvimento de sistemas
-####### Atualmente estou estudando Java e Spring boot
-####### Acadêmico em Tecnologia de Análise e desenvolvimento de sistemas
+#### Sou estudante de desenvolvimento de sistemas
+#### Atualmente estou estudando Java e Spring boot
+#### Acadêmico em Tecnologia de Análise e desenvolvimento de sistemas
 
 
 <div align="center">
