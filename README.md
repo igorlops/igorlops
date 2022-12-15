@@ -1,7 +1,7 @@
-# Olá, sou o Igor. Obrigado por visitar meu perfil!
+# Olá, obrigado por visitar meu perfil!
 
 #### Sou estudante de desenvolvimento de sistemas
-#### Atualmente estou estudando Java e Spring boot com ReactJS
+#### Atualmente estou estudando Java Web e ReactJS
 #### Acadêmico em Tecnologia de Análise e desenvolvimento de sistemas
 
 
