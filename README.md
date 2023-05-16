@@ -1,9 +1,9 @@
 # Olá, obrigado por visitar meu perfil!
 
 
-#### Sou desenvolvedor Front-End
-#### Atualmente estou estudando Java, Wordpress e ReactJS.
-#### Desejo ser um desenvolvedor de software full stack.
+#### Sou desenvolvedor Java
+#### Atualmente estou estudando Java, Spring e ReactJS.
+#### Desejo ser desenvolvedor de software full stack.
 #### Acadêmico em Tecnologia de Análise e desenvolvimento de sistemas.
 
 <br>
