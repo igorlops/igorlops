@@ -1,9 +1,8 @@
 # Olá, obrigado por visitar meu perfil!
 
 
-#### Sou desenvolvedor Java
-#### Atualmente estou estudando Java, Spring e ReactJS.
-#### Desejo ser desenvolvedor de software full stack.
+#### Sou Desenvolvedor de Software Full-stack
+#### Atualmente estou estudando PHP, Laravel, ReactJS e NextJS.
 #### Acadêmico em Tecnologia de Análise e desenvolvimento de sistemas.
 
 <br>
