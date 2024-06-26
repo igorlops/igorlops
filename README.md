@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/igorlops">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorlops&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorlops&layout=compact&langs_count=10&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&hide=html,css,scss"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorlops&layout=compact&langs_count=10&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&hide=html,css,scss&exclude_repo=sistema_opcao_bolo,sistema_empresa_revenda"/>
 </div>
 <div style="display: inline-block"><br>
 
